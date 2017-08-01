@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/bin/Debug/netcoreapp1.1/basic13.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/bin/Debug/netcoreapp1.1/basic13.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/bin/Debug/netcoreapp1.1/basic13.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/bin/Debug/netcoreapp1.1/basic13.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/obj/Debug/netcoreapp1.1/basic13.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/obj/Debug/netcoreapp1.1/basic13.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/basic13/obj/Debug/netcoreapp1.1/basic13.pdb
